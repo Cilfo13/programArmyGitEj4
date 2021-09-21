@@ -8,5 +8,9 @@ public class main {
         Conejo conejo = new Conejo("Copito","Blanco","El conejo duracell", 48.6, 10, true);
         System.out.println(conejo.toString());
         Pato pato = new Pato("patito feo","pato volador",10);
+        System.out.println(pato.toString());
+        Gato gato = new Gato("Pepita", "Persa", "Negro", 5);
+        System.out.println(gato.toString());
+        gato.maullar();
     }    
 }
