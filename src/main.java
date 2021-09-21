@@ -5,7 +5,7 @@ public class main {
         Pajaro piolin = new Pajaro("Piolin", 15, 20d, "Amarillo");
         piolin.hablar();
         piolin.volar();
-        Conejo conejo = new Conejo("Copito","Blanco","Ni idea es un conejo blanco", 48.6, 10, true);
+        Conejo conejo = new Conejo("Copito","Blanco","El conejo duracell", 48.6, 10, true);
         System.out.println(conejo.toString());
     }    
 }
