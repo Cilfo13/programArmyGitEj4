@@ -12,5 +12,7 @@ public class main {
         Gato gato = new Gato("Pepita", "Persa", "Negro", 5);
         System.out.println(gato.toString());
         gato.maullar();
+        Perro perreke = new Perro("Perreke");
+        perreke.ladrar();
     }    
 }
