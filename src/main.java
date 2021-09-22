@@ -14,5 +14,7 @@ public class main {
         gato.maullar();
         Perro perreke = new Perro("Perreke");
         perreke.ladrar();
+        Pez pez = new Pez(100, "Doradito", "Amarillo");
+        System.out.println(pez.toString());
     }    
 }

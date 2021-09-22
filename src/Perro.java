@@ -1,4 +1,6 @@
 
+
+
 public class Perro {
     
     String nombre,raza,color;

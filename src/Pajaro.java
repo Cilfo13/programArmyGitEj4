@@ -1,4 +1,6 @@
 
+
+
 public class Pajaro {
     private String nombre;
     //Cantidad de tiempo que permanece en el aire en metros
